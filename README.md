@@ -1,5 +1,7 @@
 # babel-plugin-transform-remove-import
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dleitee/babel-plugin-transform-remove-import.svg)](https://greenkeeper.io/)
+
 This plugin removes all `import` calls.
 
 ## Example
